@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>~.boer.~ 乌托邦</title><link href="http://www.boer.xyz/" rel="alternate"></link><link href="http://www.boer.xyz/feeds/tech.atom.xml" rel="self"></link><id>http://www.boer.xyz/</id><updated>2014-11-13T16:30:00+08:00</updated><entry><title>打造属于自己的Pelican博客</title><link href="http://www.boer.xyz/2014/11/13/publish-your-blog.html" rel="alternate"></link><updated>2014-11-13T16:30:00+08:00</updated><author><name>boer</name></author><id>tag:www.boer.xyz,2014-11-13:2014/11/13/publish-your-blog.html</id><summary type="html">&lt;blockquote&gt;
+&lt;p&gt;安装Python&lt;br&gt;
+安装Pelican和Markdown&lt;br&gt;
+安装你喜欢的Theme&lt;br&gt;
+一步一步配置pelicanconf.py文件&lt;br&gt;
+make publish发布你的网站&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="pelican"></category><category term="publish"></category><category term="git"></category></entry></feed>
